@@ -8,4 +8,6 @@ Before running the the above python code install the following necessary package
 tkinter, openCV, numpy, pillow(pyhton3),PIL(python2),scikit-learn,skimage
 
 
+output of Demo_Camera_frangi.py
+
 ![demofrangi_out](https://user-images.githubusercontent.com/62006705/76295344-73001800-62da-11ea-9d15-53a3290a5e1f.PNG)
