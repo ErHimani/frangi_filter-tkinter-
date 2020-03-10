@@ -3,7 +3,6 @@ import cv2
 import PIL.Image, PIL.ImageTk
 import time
 import numpy as np
-
 from skimage.filters import frangi, hessian
 
 
